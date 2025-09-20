@@ -78,7 +78,17 @@
 * Li, Wenyang, et al. "**Excited ion-scale turbulence by a magnetic island in fusion plasmas.**" Scientific Reports 14.1 (2024): 25362.
   [[Paper](https://www.nature.com/articles/s41598-024-75268-6.pdf)]
 
+* Höfler, Klara, et al. "**Milestone in predicting core plasma turbulence: successful multi-channel validation of the gyrokinetic code GENE.**" Nature communications 16.1 (2025): 2558.
+  [[Paper](https://www.nature.com/articles/s41467-025-56997-2.pdf)]
+
+* Geng J S, Li P, Li Y D, et al. **Spontaneous evolution of density peaking factor in TEM turbulence-dominated H-mode plasma on the EAST Tokamak**[J]. Scientific Reports, 2025, 15(1): 7738.
+  [[Paper](https://www.nature.com/articles/s41598-025-91363-8.pdf)]
+
 * 
+
+
+
+
 
 
 
