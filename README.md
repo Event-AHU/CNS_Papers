@@ -69,6 +69,15 @@
 * Ding S, Garofalo A M, Wang H Q, et al. **Author Correction: A high-density and high-confinement tokamak plasma regime for fusion energy**[J]. Nature, 2024, 630(8016): E4.
   [[Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC11168918/)]
 
+* Willensdorfer, Matthias, et al. "**Observation of magnetic islands in tokamak plasmas during the suppression of edge-localized modes.**" Nature Physics 20.12 (2024): 1980-1988.
+  [[Paper](https://www.nature.com/articles/s41567-024-02666-y.pdf)]
+
+* Chouchene, Sarah, et al. "**Application of machine learning for detecting and tracking turbulent structures in plasma fusion devices using ultra fast imaging.**" Scientific Reports 14.1 (2024): 27965.
+  [[Paper](https://www.nature.com/articles/s41598-024-79251-z.pdf)]
+
+* Li, Wenyang, et al. "**Excited ion-scale turbulence by a magnetic island in fusion plasmas.**" Scientific Reports 14.1 (2024): 25362.
+  [[Paper](https://www.nature.com/articles/s41598-024-75268-6.pdf)]
+
 * 
 
 
