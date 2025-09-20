@@ -1,6 +1,6 @@
 # CNS_Papers 
 
-<img src="https://github.com/Event-AHU/CNS_Papers/blob/main/cns.webp" width="500">
+<img src="https://github.com/Event-AHU/CNS_Papers/blob/main/cns.webp" width="600">
 
 
 
