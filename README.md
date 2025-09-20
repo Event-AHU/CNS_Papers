@@ -1,5 +1,9 @@
 # CNS_Papers 
 
+<img src="https://github.com/Event-AHU/CNS_Papers/blob/main/cns.webp" width="500">
+
+
+
 
 ## AI Paper 
 * Mnih, Volodymyr, et al. "**Human-level control through deep reinforcement learning**." nature 518.7540 (2015): 529-533.
