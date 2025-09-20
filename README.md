@@ -84,8 +84,11 @@
 * Geng J S, Li P, Li Y D, et al. **Spontaneous evolution of density peaking factor in TEM turbulence-dominated H-mode plasma on the EAST Tokamak**[J]. Scientific Reports, 2025, 15(1): 7738.
   [[Paper](https://www.nature.com/articles/s41598-025-91363-8.pdf)]
 
-* 
+* Yang C, Li K, Li G, et al. **Prediction of the kinetic profiles in H-mode plasma discharges on EAST using core-pedestal coupling**[J]. Scientific Reports, 2025, 15(1): 9207.
+  [[Paper](https://www.nature.com/articles/s41598-025-93919-0.pdf)]
 
+* 
+ 
 
 
 
