@@ -29,6 +29,9 @@
 * Seo J, Kim S K, Jalalvand A, et al. **Avoiding fusion plasma tearing instability with deep reinforcement learning**[J]. Nature, 2024, 626(8000): 746-751.
   [[Paper](https://www.nature.com/articles/s41586-024-07024-9.pdf)]
 
+* Kates-Harbeck, Julian, Alexey Svyatkovskiy, and William Tang. "**Predicting disruptive instabilities in controlled fusion plasmas through deep learning.**" Nature 568.7753 (2019): 526-531.
+  [[Paper](https://www.nature.com/articles/s41586-019-1116-4)]
+
 * 
 
 
