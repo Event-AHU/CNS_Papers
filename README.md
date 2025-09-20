@@ -26,6 +26,9 @@
   [[Paper](https://www.nature.com/articles/s41586-024-07409-w.pdf)]
   [[Code](https://github.com/uzh-rpg/dsec-det)]
 
+
+
+
 ## Fusion 
 * Degrave J, Felici F, Buchli J, et al. **Magnetic control of tokamak plasmas through deep reinforcement learning**[J]. Nature, 2022, 602(7897): 414-419.
   [[Paper](https://www.nature.com/articles/s41586-021-04301-9.pdf)]
@@ -36,6 +39,21 @@
 * Kates-Harbeck, Julian, Alexey Svyatkovskiy, and William Tang. "**Predicting disruptive instabilities in controlled fusion plasmas through deep learning.**" Nature 568.7753 (2019): 526-531.
   [[Paper](https://www.nature.com/articles/s41586-019-1116-4)]
 
+* Ding S, Garofalo A M, Wang H Q, et al. **A high-density and high-confinement tokamak plasma regime for fusion energy**[J]. Nature, 2024, 629(8012): 555-560.
+  [[Paper](https://www.nature.com/articles/s41586-024-07313-3)]
+
+* Kim S K, Shousha R, Yang S M, et al. **Highest fusion performance without harmful edge energy bursts in tokamak**[J]. Nature communications, 2024, 15(1): 3990.
+  [[Paper](https://www.nature.com/articles/s41467-024-48415-w.pdf)]
+
+* Murari A, Rossi R, Craciunescu T, et al. A control oriented strategy of disruption prediction to avoid the configuration collapse of tokamak reactors[J]. Nature Communications, 2024, 15(1): 2424.
+  [[Paper](https://www.nature.com/articles/s41467-024-46242-7.pdf)]
+
+* Yang S M, Park J K, Jeon Y M, et al. **Tailoring tokamak error fields to control plasma instabilities and transport**[J]. Nature Communications, 2024, 15(1): 1275.
+  [[Paper](https://www.nature.com/articles/s41467-024-45454-1.pdf)]
+
 * 
+
+
+
 
 
