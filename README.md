@@ -51,7 +51,26 @@
 * Yang S M, Park J K, Jeon Y M, et al. **Tailoring tokamak error fields to control plasma instabilities and transport**[J]. Nature Communications, 2024, 15(1): 1275.
   [[Paper](https://www.nature.com/articles/s41467-024-45454-1.pdf)]
 
+* Dominguez-Palacios J, Futatani S, Garcia-Munoz M, et al. **Effect of energetic ions on edge-localized modes in tokamak plasmas**[J]. Nature Physics, 2025, 21(1): 43-51.
+  [[Paper](https://www.nature.com/articles/s41567-024-02715-6)]
+
+* Jenko, Frank. "**Accelerating fusion research via supercomputing.**" Nature Reviews Physics (2025): 1-13.
+  [[Paper](https://www.nature.com/articles/s42254-025-00837-1)]
+
+* Garcia J, Kazakov Y, Coelho R, et al. **Stable Deuterium-Tritium plasmas with improved confinement in the presence of energetic-ion instabilities**[J]. Nature Communications, 2024, 15(1): 7846.
+  [[Paper](https://www.nature.com/articles/s41467-024-52182-z.pdf)]
+
+* Gibney E. **ITER delay: what it means for nuclear fusion**[J]. Nature, 2024, 631(8021): 488-489.
+  [[Paper](https://www.nature.com/articles/d41586-024-02247-2.pdf)]
+
+* Conroy G. **CHINA’S RACE FOR FUSION ENERGY**[J]. Nature, 2024, 632(8027): 968-970.
+  [[Paper](https://www.nature.com/articles/d41586-024-02759-x)]
+
+* Ding S, Garofalo A M, Wang H Q, et al. **Author Correction: A high-density and high-confinement tokamak plasma regime for fusion energy**[J]. Nature, 2024, 630(8016): E4.
+  [[Paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC11168918/)]
+
 * 
+
 
 
 
