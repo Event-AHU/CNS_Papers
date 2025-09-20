@@ -13,7 +13,6 @@
 
 
 ## Event/Spike Data 
-
-
-## 
+* Gehrig, D., & Scaramuzza, D. (2024). **Low-latency automotive vision with event cameras**. Nature, 629(8014), 1034-1040.
+  [[Paper](https://www.nature.com/articles/s41586-024-07409-w.pdf)] 
 
