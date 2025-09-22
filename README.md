@@ -19,6 +19,9 @@
 
 ## Medical 
 
+* Hu, Y., Xiang, Y., Zhou, Y. J., He, Y., Lang, D., Yang, S., ... & Zhang, H. (2025). **AI-based diagnosis of acute aortic syndrome from noncontrast CT**. Nature Medicine, 1-13.
+  [[Paper](https://www.nature.com/articles/s41591-025-03916-z.pdf)] 
+
 
 
 ## Event/Spike Data 
