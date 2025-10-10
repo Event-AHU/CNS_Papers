@@ -33,6 +33,10 @@
 
 
 ## Fusion 
+
+* Wang, Allen M., et al. "**Learning plasma dynamics and robust rampdown trajectories with predict-first experiments at TCV.**" Nature Communications 16.1 (2025): 8877.
+  [[Paper](https://www.nature.com/articles/s41467-025-63917-x)] 
+
 * Degrave J, Felici F, Buchli J, et al. **Magnetic control of tokamak plasmas through deep reinforcement learning**[J]. Nature, 2022, 602(7897): 414-419.
   [[Paper](https://www.nature.com/articles/s41586-021-04301-9.pdf)]
 
