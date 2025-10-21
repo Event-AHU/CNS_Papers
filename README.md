@@ -24,7 +24,13 @@
 
 * "**A generative model uses healthy and diseased image pairs for pixel-level chest X-ray pathology localization.**" Dong, Kaiming, Yuxiao Cheng, Kunlun He, and Jinli Suo. 
   Nature Biomedical Engineering (2025): 1-13.
-  [[Paper](https://www.nature.com/articles/s41551-025-01456-y)] 
+  [[Paper](https://www.nature.com/articles/s41551-025-01456-y)]
+
+* **Exploring scalable medical image encoders beyond text supervision**, Fernando Pérez-García et al.
+  [[Paper](https://www.nature.com/articles/s42256-024-00965-w)]
+  [[Code](https://arxiv.org/abs/2401.10815)]
+
+ 
 
 
 
