@@ -45,6 +45,11 @@
 
 ## Fusion 
 
+
+* Tokuzawa, Tokihiko, et al. "**Cross-scale nonlinear interaction and bifurcation in multi-scale turbulence of high-temperature plasmas.**" Communications Physics 8.1 (2025): 394.
+  [[Paper](https://www.nature.com/articles/s42005-025-02245-4.pdf)] 
+  [[微信公众号](https://mp.weixin.qq.com/s?__biz=MzkyNjM4MzY3MA==&mid=2247485934&idx=1&sn=bc71bff260c4b87b13abb96eb288facd&chksm=c23962b7f54eeba1ce5cb6826d237da9d77bf891b4311058ae8dcd96349427d4cc2ab2e681d1&cur_album_id=3893653784794382342&scene=189#wechat_redirect)] 
+
 * Wang, Allen M., et al. "**Learning plasma dynamics and robust rampdown trajectories with predict-first experiments at TCV.**" Nature Communications 16.1 (2025): 8877.
   [[Paper](https://www.nature.com/articles/s41467-025-63917-x)] 
 
