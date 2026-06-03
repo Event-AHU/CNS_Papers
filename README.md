@@ -19,6 +19,11 @@
 
 ## Medical 
 
+
+* **DentVLM: A Multimodal Vision-Language Model for Comprehensive Dental Diagnosis and Enhanced Clinical Practice**,
+  Zijie Meng, Jin Hao, Xiwei Dai, Yang Feng, Jiaxiang Liu, Bin Feng, Huikai Wu, Xiaotang Gai, Hengchuan Zhu, Tianxiang Hu, Yangyang Wu, Hongxia Xu, Jin Li, Jun Xiao, Xiaoqiang Liu, Joey Tianyi Zhou, Fudong Zhu, Zhihe Zhao, Lunguo Xia, Bing Fang, Jimeng Sun, Jian Wu, Zuozhu Liu
+  [[NC](https://arxiv.org/abs/2509.23344)]
+  
 * **AI-based diagnosis of acute aortic syndrome from noncontrast CT**. Hu, Y., Xiang, Y., Zhou, Y. J., He, Y., Lang, D., Yang, S., ... & Zhang, H. (2025).  Nature Medicine, 1-13. 
   [[Paper](https://www.nature.com/articles/s41591-025-03916-z.pdf)]
 
