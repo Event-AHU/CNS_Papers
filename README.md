@@ -16,6 +16,11 @@
   [[Paper](https://www.researchsquare.com/article/rs-4183330/v1)]
   [[Nature](https://www.nature.com/articles/s42256-024-00938-z)]
 
+* Du P, Parikh M H, Fan X, et al. **Conditional neural field latent diffusion model for generating spatiotemporal turbulence**[J].
+  Nature Communications, 2024, 15(1): 10416.
+  [[Paper](https://www.nature.com/articles/s41467-024-54712-1.pdf)]
+
+
 
 ## Medical 
 
