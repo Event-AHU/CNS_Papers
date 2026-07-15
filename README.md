@@ -20,6 +20,44 @@
   Nature Communications, 2024, 15(1): 10416.
   [[Paper](https://www.nature.com/articles/s41467-024-54712-1.pdf)]
 
+* Rahdar, Abbas, Sonia Fathi-Karkan, and Maryam Shirzad. "**Predictive optimization of curcumin nanocomposites using hybrid machine learning and physics informed modeling.**"
+  Scientific Reports 15.1 (2025): 44368. 
+  [[Paper](https://www.nature.com/articles/s41598-025-28074-7.pdf)] 
+
+* Liu, Jingbo, et al. "**A physics-informed and data-driven framework for robotic welding in manufacturing.**" Nature Communications 16.1 (2025): 4807.
+  [[Paper](https://www.nature.com/articles/s41467-025-60164-y.pdf)]
+
+* Park, Chanwook, et al. "**Unifying machine learning and interpolation theory via interpolating neural networks.**" Nature Communications 16.1 (2025): 8753.
+  [[Paper](https://www.nature.com/articles/s41467-025-63790-8.pdf)]
+
+* Jing, Ying, et al. "**Diffusion prediction and control of negative information on simplicial complexes using physics-informed neural networks.**" IEEE Transactions on Information Forensics and Security (2025).
+  [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11168466)]
+
+* Liu, Ziti, et al. "**Automatic network structure discovery of physics informed neural networks via knowledge distillation.**" Nature Communications 16.1 (2025): 9558.
+  [[Paper](https://www.nature.com/articles/s41467-025-64624-3.pdf)]
+
+* Sharma, Vinay, and Olga Fink. "**A physics-informed graph neural network conserving linear and angular momentum for dynamical systems.**" Nature Communications (2026).
+  [[Paper](https://www.nature.com/articles/s41467-025-67802-5_reference.pdf)]
+
+* Boya, Sumanth Kumar, and Deepak N. Subramani. "**PINTO: Physics-informed transformer neural operator for learning generalized solutions of partial differential equations for any initial and boundary condition.**"
+  Computer Physics Communications 315 (2025): 109702.
+  [[Paper](https://www.sciencedirect.com/science/article/pii/S0010465525002048)]
+
+* Mu, Xinru, Shijun Cheng, and Tariq Alkhalifah. "**SeparationPINN: Physics-informed neural networks for seismic P-and S-wave mode separation.**" IEEE Transactions on Geoscience and Remote Sensing (2025). 
+  [[Paper](https://ieeexplore.ieee.org/abstract/document/11048588/)]
+
+* Momeni A, Rahmani B, Scellier B, et al. **Training of physical neural networks**[J]. Nature, 2025, 645(8079): 53-61.
+  [[Paper]](https://www.nature.com/articles/s41586-025-09384-2)]
+
+* Lai, Pengyu, et al. "**From Complex Dynamics to DynFormer: Rethinking Transformers for PDEs.**" arXiv preprint arXiv:2603.03112 (2026).
+  [[Paper](https://arxiv.org/abs/2603.03112)]
+
+* **A Simple but Efficient Transformer-Based Physics-Informed Neural Network for Incompressible Navier--Stokes Equations**, Biswanath Barman, Debdeep Chatterjee, Rajendra K. Ray
+  [[Paper](https://arxiv.org/abs/2601.03613)]
+
+* Zeraatkar, Ehsan, Rodion Podorozhny, and Jelena Tešić. "**Physics-Guided Transformer (PGT): Physics-Aware Attention Mechanism for PINNs.**" arXiv preprint arXiv:2603.27929 (2026).
+  [[Paper](https://arxiv.org/abs/2603.27929)] 
+
 
 
 ## Medical 
