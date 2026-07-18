@@ -12,6 +12,33 @@
 
 ## AI4Science 
 
+
+* Park, H., Walsh, A. **Guiding generative models to uncover diverse and novel crystals via reinforcement learning.** Nat Mach Intell (2026).
+  [[Paper](https://doi.org/10.1038/s42256-026-01262-4)] 
+
+* Berner, J., Liu-Schiaffini, M., Kossaifi, J. et al. **Principled approaches for extending neural architectures to function spaces for operator learning.** Nat Mach Intell (2026).
+  [[Paper](https://doi.org/10.1038/s42256-026-01267-z)]  
+
+* Long, Z., Zhou, Q., Zhu, A. et al. **Deep neural operator for free boundary problems.** Nat Mach Intell 8, 806–817 (2026).
+  [[Paper](https://doi.org/10.1038/s42256-026-01233-9)] 
+  
+* Thiemann, F.L., Reschützegger, T., Esposito, M. et al. **Force-free molecular dynamics through autoregressive equivariant networks.** Nat Mach Intell 8, 764–776 (2026).
+  [[Paper](https://doi.org/10.1038/s42256-026-01227-7)] 
+
+* Ding, Y., Qiang, B., Li, S. et al. **Pretraining a foundation model for small-molecule natural products.** Nat Mach Intell 8, 777–788 (2026).
+  [[Paper](https://doi.org/10.1038/s42256-026-01226-8)] 
+
+* Tang, Y., Xu, W., Cao, J. et al. **A multimodal large language model for materials science.** Nat Mach Intell 8, 588–601 (2026).
+  [[Paper](https://doi.org/10.1038/s42256-026-01214-y)] 
+
+* Zheng, L., Kumar, S. & Kochmann, D.M. **Algebraic language models for inverse design of metamaterials via diffusion transformers.** Nat Mach Intell 8, 628–640 (2026).
+  [[Paper](https://doi.org/10.1038/s42256-026-01218-8)] 
+
+* Marwitz, T., Colsmann, A., Breitung, B. et al. **Predicting new research directions in materials science using large language models and concept graphs.** Nat Mach Intell 8, 535–544 (2026). [[Paper](https://doi.org/10.1038/s42256-026-01206-y)] 
+
+* Zhou, Y., Yang, J., Huang, Y. et al. **Benchmarking large language models on safety risks in scientific laboratories**. Nat Mach Intell 8, 20–31 (2026). 
+  [[Paper](https://doi.org/10.1038/s42256-025-01152-1)]
+
 * Yuan, Y., Ding, J., Qiu, Z. et al. **Learning the coupled dynamics of global climate modes**. Nat Mach Intell 8, 930–941 (2026).
   [[Paper](https://doi.org/10.1038/s42256-026-01245-5)] 
   
