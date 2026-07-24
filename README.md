@@ -7,7 +7,10 @@
 
 ## AI Paper 
 * Mnih, Volodymyr, et al. "**Human-level control through deep reinforcement learning**." nature 518.7540 (2015): 529-533.
-  [[Paper](https://www.nature.com/articles/s41586-024-07024-9.pdf)] 
+  [[Paper](https://www.nature.com/articles/s41586-024-07024-9.pdf)]
+
+* Hafner, D., Pasukonis, J., Ba, J. et al. **Mastering diverse control tasks through world models.** Nature 640, 647–653 (2025).
+  [[Paper](https://www.nature.com/articles/s41586-025-08744-2)] 
 
 
 ## AI4Science 
